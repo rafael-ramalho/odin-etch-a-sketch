@@ -1,0 +1,16 @@
+body {
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    margin: 36px;
+}
+
+#grids {
+    display: flex;
+    width: 576px;
+    height: 576px;
+}
